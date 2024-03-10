@@ -20,27 +20,14 @@ Install dependencies by running yarn install.
 Run the application using yarn start.
 Open http://localhost:3000 to view it in the browser.
 
-## Folder Structure
-Fitness-Club-React-App/
-  ├── build/                   # Production build of the application
-  ├── node_modules/            # Dependencies
-  ├── public/                  # Public files (HTML template, favicon, etc.)
-  ├── src/                     # Source code
-  │   ├── components/          # React components
-  │   │   ├── Header/          # Header component
-  │   │   ├── Footer/          # Footer component
-  │   │   ├── Hero/            # Home section component
-  │   │   ├── Join/            # Join section component
-  │   │   ├── Plans/           # Membership plans component
-  │   │   ├── Programs/        # Fitness programs component
-  │   │   └── Testimonials/    # Testimonials component
-  │   ├── App.js               # Main component
-  │   ├── index.js             # Entry point
-  ├── yarn.lock                # Yarn lock file
-  └── README.md                # This file
 
 ## Technologies Used
 React: Built with the React library for building user interfaces.
 JavaScript: The primary programming language used.
 CSS: Styling done with CSS for layout and design.
 Yarn: Package manager used for installing dependencies and running scripts.
+
+
+## Accessing the Application
+
+You can access the deployed version of the application at: [Fitness Club React App](https://fitclub-qxz.pages.dev/)
