@@ -32,7 +32,7 @@ Welcome to the Fitness Club React Application! This application is designed to s
 
 ## Folder Structure
 
-'''Fitness-Club-React-App/
+```Fitness-Club-React-App/
 ├── build/ # Production build of the application
 ├── node_modules/ # Dependencies
 ├── public/ # Public files (HTML template, favicon, etc.)
@@ -50,7 +50,7 @@ Welcome to the Fitness Club React Application! This application is designed to s
 │ └── ...
 ├── yarn.lock # Yarn lock file
 └── README.md # This file
-'''
+```
 
 ## Accessing the Application
 
