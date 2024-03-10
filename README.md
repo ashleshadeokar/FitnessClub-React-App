@@ -37,20 +37,33 @@ Fitness-Club-React-App/
 ├── build/ # Production build of the application
 
 ├── node_modules/ # Dependencies
+
 ├── public/ # Public files (HTML template, favicon, etc.)
+
 ├── src/ # Source code
+
 │ ├── components/ # React components
+
 │ │ ├── Header/ # Header component
+
 │ │ ├── Footer/ # Footer component
+
 │ │ ├── Hero/ # Home section component
+
 │ │ ├── Join/ # Join section component
+
 │ │ ├── Plans/ # Membership plans component
+
 │ │ ├── Programs/ # Fitness programs component
+
 │ │ └── Testimonials/ # Testimonials component
+
 │ ├── App.js # Main component
+
 │ ├── index.js # Entry point
-│ └── ...
+
 ├── yarn.lock # Yarn lock file
+
 └── README.md # This file
 
 
