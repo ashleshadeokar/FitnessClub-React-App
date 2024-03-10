@@ -54,5 +54,5 @@ Welcome to the Fitness Club React Application! This application is designed to s
 
 ## Accessing the Application
 
-For deploying the appliaction I have used the CloudFare Pages.
-You can access the deployed version of the application at: [Fitness Club React App](https://fitclub-qxz.pages.dev/)
+- For deploying the appliaction I have used the CloudFare Pages.
+- You can access the deployed version of the application at: [Fitness Club React App](https://fitclub-qxz.pages.dev/)
