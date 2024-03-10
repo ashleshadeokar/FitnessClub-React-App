@@ -24,10 +24,11 @@ Welcome to the Fitness Club React Application! This application is designed to s
 
 
 ## Technologies Used
-*React: Built with the React library for building user interfaces.
-*JavaScript: The primary programming language used.
-*CSS: Styling done with CSS for layout and design.
-*Yarn: Package manager used for installing dependencies and running scripts.
+
+- React: Built with the React library for building user interfaces.
+- JavaScript: The primary programming language used.
+- CSS: Styling done with CSS for layout and design.
+- Yarn: Package manager used for installing dependencies and running scripts.
 
 ## Folder Structure
 
